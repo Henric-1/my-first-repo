@@ -1,2 +1,6 @@
-# my-first-repo
-This is my first repository
+# My Github Story
+## Lessons learnt
+
+1. Created an account
+2. Created repository
+3. Used markdown
